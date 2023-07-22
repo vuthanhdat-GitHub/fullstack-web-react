@@ -1,0 +1,12 @@
+int // integer
+varchar //ascii
+nvarchar // utf-8
+date
+date time(dd/MM/yyy--hh/MM/ss)
+tiny int // 16 8 bits
+boolean // true,false
+//my SQL. MSSQL, Postgre, mariadb, SQLite...
+
+
+alter table 
+drop table if exist

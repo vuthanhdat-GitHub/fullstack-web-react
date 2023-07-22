@@ -1,0 +1,13 @@
+categoryID nvarchar(10) primary key,
+    displayname nvarchar(100), 
+    Size int(10),
+    Color nvarchar(100),
+    Functionn nvarchar(100),
+    Typee nvarchar(100) 
+
+
+
+Viết các câu lệnh SQL để thêm sửa xoá cập nhập các bản ghi của từng bảng
+Javascript: các bạn nào chưa học js thì bắt đầu đọc và code theo ở đây: https://www.w3schools.com/js/js_variables.asp còn đâu thì chuyển sang phần JS Object và JS Function.\
+Code lại các hàm cơ bản: tìm kiếm, sắp xếp, lọc, tính tổng của 1 mảng. (không dùng vòng lặp thì tốt)
+Cho 1 mảng đối tượng bất kỳ. Thực hiện paging mảng không dùng thư viện gì. Search keyword pagination để biết paging là gì.
